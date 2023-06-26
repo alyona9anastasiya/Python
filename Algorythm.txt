@@ -1,0 +1,15 @@
+Task about CATS:
+
+1. We have number_of_cats and number_of round
+2. Create a new list to put here cats_in_hat
+3. Iterate through round: for i in range(rounds):
+4. Iterate through cats: for k in range (cats):
+5. We can calculate how to iterate every round----->
+		if cats % rounds == 0:
+		THEN we put that element in cats_in_hat - if it's not here
+6. Then printing our list
+
+Complexity - O(2 ^ n) + 2*O(n)
+
+
+
